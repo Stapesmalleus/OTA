@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1230764400,
-      "filename": "ota-package.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
-      "romtype": "nightly",
-      "size": 314572800,
-      "url": "https://example.com/ota-package.zip",
+      "datetime": 1788507493,
+      "filename": "lineage-15.1-20260904-UNOFFICIAL-giza.zip",
+      "id": "113da9469e9d5ad0d6ed8d597498f4f2",
+      "romtype": "unofficial",
+      "size": 481190212,
+      "url": "https://github.com/Stapesmalleus/OTA/raw/refs/heads/lineage-15.1/amazon/giza/lineage-15.1-20260904-UNOFFICIAL-giza.zip",
       "version": "15.1"
     }
   ]
