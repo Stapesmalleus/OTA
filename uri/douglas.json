@@ -3,10 +3,10 @@
     {
       "datetime": 1788541646,
       "filename": "lineage-15.1-20260904-UNOFFICIAL-douglas.zip",
-      "id": "16d264564de30f774aa48f9afd41221a",
+      "id": "754c15d37e703d32f2f5bb6501d32e1f",
       "romtype": "unofficial",
-      "size": 481297030,
-      "url": "https://example.com/ota-package.zip",
+      "size": 481297039,
+      "url": "https://github.com/Stapesmalleus/OTA/raw/refs/heads/dev/amazon/douglas/lineage-15.1-20260904-UNOFFICIAL-douglas.zip",
       "version": "15.1"
     }
   ]
