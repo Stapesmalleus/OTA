@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1788541646,
+      "filename": "lineage-15.1-20260904-UNOFFICIAL-douglas.zip",
+      "id": "16d264564de30f774aa48f9afd41221a",
+      "romtype": "unofficial",
+      "size": 481297030,
+      "url": "https://example.com/ota-package.zip",
+      "version": "15.1"
+    }
+  ]
+}
