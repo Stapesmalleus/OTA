@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1790244490,
-      "filename": "stapes-giza-2609.zip",
-      "id": "6124e18ce5f046965aee14083920c1e1",
+      "datetime": 1790263046,
+      "filename": "stapes-giza-2609.1.zip",
+      "id": "edc18b0e367884580dc74690fd1b4c46",
       "romtype": "unofficial",
-      "size": 481978645,
-      "url": "https://github.com/Stapesmalleus/OTA/raw/refs/heads/lineage-15.1/amazon/giza/stapes-giza-2609.zip",
+      "size": 481991599,
+      "url": "https://github.com/Stapesmalleus/OTA/raw/refs/heads/lineage-15.1/amazon/giza/stapes-giza-2609.1.zip",
       "version": "15.1"
     }
   ]
