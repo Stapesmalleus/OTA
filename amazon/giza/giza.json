@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1791314607,
+      "datetime": 1791323648,
       "filename": "stapes-giza-2610.zip",
-      "id": "ef0c481b012a45da41cf99c2102be658",
+      "id": "ef23f34a9bc2fe0765f82d256c36c027",
       "romtype": "unofficial",
-      "size": 482019430,
+      "size": 482006041,
       "url": "https://github.com/Stapesmalleus/OTA/raw/refs/heads/lineage-15.1/amazon/giza/stapes-giza-2610.zip",
       "version": "15.1"
     }
